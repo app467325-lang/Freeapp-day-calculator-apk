@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Outer Liquid Glass Ring -->
+    <path
+        android:pathData="M54,24 A30,30 0 1,1 53.9,24 Z"
+        android:strokeWidth="2.2"
+        android:strokeColor="#8038BDF8"
+        android:fillColor="#1A3B82F6"/>
+
+    <!-- Crescent Moon Silhouette -->
+    <path
+        android:pathData="M62,33 C49,33 39,43 39,56 C39,69 49,79 62,79 C66,79 70,78 73,76 C63,75 55,66 55,56 C55,46 63,37 73,36 C70,34 66,33 62,33 Z">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:startX="39"
+                android:startY="33"
+                android:endX="73"
+                android:endY="79"
+                android:type="linear">
+                <item android:offset="0.0" android:color="#FFFFFF"/>
+                <item android:offset="0.6" android:color="#7DD3FC"/>
+                <item android:offset="1.0" android:color="#38BDF8"/>
+            </gradient>
+        </aapt:attr>
+    </path>
+
+    <!-- Soundwave / Recitation Equalizer Bars Inside Crescent -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M45,51 L45,61 C45,62.1 45.9,63 47,63 C48.1,63 49,62.1 49,61 L49,51 C49,49.9 48.1,49 47,49 C45.9,49 45,49.9 45,51 Z"/>
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M37,46 L37,66 C37,67.1 37.9,68 39,68 C40.1,68 41,67.1 41,66 L41,46 C41,44.9 40.1,44 39,44 C37.9,44 37,44.9 37,46 Z"/>
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M29,52 L29,60 C29,61.1 29.9,62 31,62 C32.1,62 33,61.1 33,60 L33,52 C33,50.9 32.1,50 31,50 C29.9,50 29,50.9 29,52 Z"/>
+
+    <!-- Glowing Star Accent -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M71,42 L73,47 L78,49 L73,51 L71,56 L69,51 L64,49 L69,47 Z"/>
+</vector>

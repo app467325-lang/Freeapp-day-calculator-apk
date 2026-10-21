@@ -1,0 +1,6 @@
+{
+  "name": "Quranify",
+  "description": "تطبيق القرآن الكريم مع مشغل صوتي عالي الجودة وتصميم الزجاج السائل الفائق (Liquid Glass Edition)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

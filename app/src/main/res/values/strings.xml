@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Quranify</string>
+    <string name="premium_label">Premium</string>
+    <string name="equalizer_desc">المعادل الصوتي والإحصائيات</string>
+    <string name="tab_home">الرئيسية</string>
+    <string name="tab_reciters">القراء</string>
+    <string name="tab_playlists">قوائم التشغيل</string>
+    <string name="tab_settings">الإعدادات</string>
+    <string name="tab_search">بحث</string>
+    <string name="new_reciters_title">تمت إضافة 3 قراء جدد</string>
+    <string name="new_reciters_subtitle">اضغط للاستكشاف</string>
+    <string name="recently_played">تم تشغيله مؤخراً</string>
+    <string name="continue_listening">تابع الاستماع</string>
+    <string name="show_all">عرض الكل</string>
+    <string name="all_surahs">كل السور</string>
+    <string name="fav_playlist">المفضلة</string>
+    <string name="focus_playlist">التركيز والعمل</string>
+    <string name="selected_surahs">السور المختارة</string>
+    <string name="now_playing">يتم التشغيل الآن</string>
+    <string name="search_hint">ابحث عن سورة أو قارئ (مثل: الفاتحة، الكهف، الزواوي)...</string>
+    <string name="setting_liquid_title">تأثير الزجاج السائل الفائق (Liquid Glass)</string>
+    <string name="setting_liquid_desc">تفعيل الانكسار الضوئي والتمدد الفيزيائي للعدسة</string>
+    <string name="setting_hq_title">جودة التلاوة الصوتية</string>
+    <string name="setting_hq_desc">بث صوتي نقي بدون انقطاع (MP3 192kbps)</string>
+    <string name="setting_autonext_title">الانتقال التلقائي للسورة التالية</string>
+    <string name="setting_autonext_desc">تشغيل السورة التالية فور انتهاء الحالية</string>
+</resources>
